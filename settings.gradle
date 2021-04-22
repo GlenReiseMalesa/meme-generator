@@ -1,0 +1,2 @@
+rootProject.name='Ultimate Memes'
+include ':app'
